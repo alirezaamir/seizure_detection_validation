@@ -1,6 +1,6 @@
 # BIOMED Seizure Detection Challenge - Validation
 
-This repository containing the pipeline to evaluate the models submitted in task 2 of the Seizure Detection Challenge, in the context of ICASSP 2023. For further information, please visit our [website](https://biomedepi.github.io/seizure_detection_challenge/).
+This repository contains the pipeline to evaluate the models submitted in task 2 of the Seizure Detection Challenge, in the context of ICASSP 2023. For further information, please visit our [website](https://biomedepi.github.io/seizure_detection_challenge/).
 
 Please visit our other [repository](https://github.com/biomedepi/seizure_detection_code) containing a more complete version for the development of Task 2 of the challenge, as well as requirements and instructions.
 
