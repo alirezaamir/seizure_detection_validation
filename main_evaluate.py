@@ -9,4 +9,5 @@ pred_files_list = [os.path.join(pred_path, x) for x in os.listdir(pred_path) if 
 #######################################################################################################################
 ### Get metrics and score ###
 #######################################################################################################################
+
 score, sens_ovlp, FA_epoch = functions.get_metrics_scoring(pred_files_list, th=0.5)
